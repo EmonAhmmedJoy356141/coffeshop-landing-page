@@ -1,0 +1,7 @@
+Figma Link :
+https://www.figma.com/design/rwS1cuBT7TomtKBLOt7Ki0/Bean-Scene-Coffee-Landingpage--Community-?node-id=0-1&p=f&t=Q2r8gDhMMkFNvOCR-0
+
+Duplicate 
+https://www.figma.com/design/IGXehqPuRcqHZUvwxnXbHl/Bean-Scene-Coffee-Landingpage--Community---Copy-?node-id=0-1&p=f&t=CmXFHbbUxAQcLdlQ-0
+
+  <button type="button" class="f_btn c_btn"><a href="#" class="text-decoration-none">Order Now</a></button>
